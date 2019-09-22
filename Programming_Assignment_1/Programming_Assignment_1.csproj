@@ -5,4 +5,15 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Classes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Interfaces\IBinaryOperation.cs" />
+    <Compile Remove="Classes\Calculator.cs" />
+    <Compile Remove="Classes\BinaryExpression.cs" />
+    <Compile Remove="Classes\MathFunction.cs" />
+    <Compile Remove="Classes\Calculator.cs" />
+    <Compile Remove="Classes\BinaryExpression.cs" />
+  </ItemGroup>
 </Project>
