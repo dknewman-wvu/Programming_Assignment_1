@@ -1,6 +1,7 @@
 # Programming_Assignment_1
 
-In any programming language of your choice, write a reusable library of basic arithmetic  functions. This library should be able to perform the following operations on integers and floating point numbers as well as numbers provided in octal, binary, and hexadecimal). The operations to be supported are: 
+Program is written in C# using .net core.  Console asks for 2 numbers to calcuate the following values with 1 input for the square root.  This is a very simple console program to validate the math functions:
+
 
 - Addition
 
